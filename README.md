@@ -1,0 +1,1 @@
+# MagiskModul_zRAM_2GB
